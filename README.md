@@ -18,65 +18,16 @@
 
 I focus on **AI-powered wireless intelligence**, especially at the intersection of:
 
-- 📡 **Integrated Sensing and Communications, ISAC**
-- 🛰️ **Non-Terrestrial Networks, NTN, LEO satellite communication**
-- 🤖 **Large Language Models, LLMs, Agents, and AI systems**
-- 🧠 **Mixture-of-Experts, MoE, LoRA, and efficient fine-tuning**
-- 📊 **Scientific AI, signal processing, and intelligent decision-making**
+- **Integrated Sensing and Communications, ISAC**
+- **Large Language Models, LLMs, Agents, and AI systems**
+- **Mixture-of-Experts, MoE, LoRA, and efficient fine-tuning**
+- **Scientific AI, signal processing, and intelligent decision-making**
 
-I am interested in building intelligent systems that can **sense, reason, communicate, and adapt**.
+I am interested in building intelligent systems that can **communicate, sense, reason, and adapt**.
 
-> Future networks should not only transmit information — they should understand the environment.
-
----
-
-## 🔥 Research Interests
-
-<table>
-<tr>
-<td width="50%">
-
-### 📡 ISAC & Future Wireless Networks
-
-- Integrated sensing and communications
-- AI-native 6G networks
-- Satellite-terrestrial integrated networks
-- LEO / NTN communication systems
-- Wireless environmental sensing
-- Radio signal intelligence
-- Resource allocation and network optimization
-
-</td>
-<td width="50%">
-
-### 🤖 LLMs, Agents & Efficient AI
-
-- Large language models
-- Multi-agent systems
-- Tool-using agents
-- Mixture-of-Experts architecture
-- LoRA / QLoRA / PEFT fine-tuning
-- Domain-specific LLM adaptation
-- Reasoning and decision-making systems
-
-</td>
-</tr>
-</table>
+> Future networks should not only transmit information — they should sense the environment.
 
 ---
-
-## 🧠 Keywords
-
-<div align="center">
-
-`ISAC` · `6G` · `NTN` · `LEO Satellite` · `AI for Wireless` · `Signal Processing`  
-`LLM` · `Agent` · `MoE` · `LoRA` · `QLoRA` · `PEFT` · `RAG` · `Multimodal AI`  
-`Resource Allocation` · `Scientific AI` · `Time-Series Modeling` · `Foundation Models`
-
-</div>
-
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -116,6 +67,36 @@ I am interested in building intelligent systems that can **sense, reason, commun
 
 ---
 
+## 🔥 Research Interests
+
+<table>
+<tr>
+<td width="50%">
+
+### 📡 ISAC & Future Wireless Networks
+
+- Integrated sensing and communications
+- AI-native 6G networks
+- Satellite-terrestrial integrated networks
+- Radio signal intelligence
+- Resource allocation and network optimization
+
+</td>
+<td width="50%">
+
+### 🤖 LLMs, Agents & Efficient AI
+
+- Large language models
+- Tool-using agents
+- Mixture-of-Experts architecture
+- LoRA / QLoRA / PEFT fine-tuning
+- Domain-specific LLM adaptation
+
+</td>
+</tr>
+</table>
+
+---
 ## 🚀 What I Am Building
 
 <table>
