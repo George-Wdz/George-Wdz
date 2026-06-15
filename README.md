@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020024,35:090979,100:00D4FF&text=George-Wdz&fontColor=ffffff&fontSize=62&fontAlignY=38&desc=ISAC%20%C3%97%20AI%20%C3%97%20LLM%20%C3%97%20MoE%20%C3%97%20Agents&descAlignY=58&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020024,35:090979,100:00D4FF&text=George-Wdz&fontColor=ffffff&fontSize=62&fontAlignY=38&desc=ISAC%20%C3%97%20AI%20%C3%97%20Agents&descAlignY=58&descSize=18" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=900&color=00D4FF&center=true&vCenter=true&width=950&lines=Integrated+Sensing+and+Communications+%7C+AI+for+Wireless;Large+Language+Models+%7C+Agents+%7C+MoE+%7C+LoRA;Non-Terrestrial+Networks+%7C+Satellite+Communication+%7C+6G;Building+intelligent+systems+for+future+networks.)](https://git.io/typing-svg)
 
@@ -19,7 +19,7 @@
 I focus on **AI-powered wireless intelligence**, especially at the intersection of:
 
 - **Integrated Sensing and Communications, ISAC**
-- **Large Language Models, LLMs, Agents, and AI systems**
+- **Large Language Models, LLMs, Agents, and AI system**
 - **Mixture-of-Experts, MoE, LoRA, and efficient fine-tuning**
 - **Scientific AI, signal processing, and intelligent decision-making**
 
