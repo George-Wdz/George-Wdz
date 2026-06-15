@@ -99,8 +99,6 @@ AI-assisted resource allocation, atmospheric-aware link adaptation, and sensing-
 ## 🧩 Research Vision
 
 ```text
-01. Use AI to make wireless networks more intelligent.
-02. Use sensing to make communication systems environment-aware.
-03. Use LLMs and agents to automate complex scientific workflows.
-04. Use MoE and LoRA to build efficient domain-specialized models.
-05. Build systems that can perceive, reason, optimize, and act.
+01. Naive AI for physical layer communication.
+02. Meteorological sensing over satellite-ground communication links
+03. AI for automate complex scientific workflows.
