@@ -66,37 +66,6 @@ I am interested in building intelligent systems that can **communicate, sense, r
 </div>
 
 ---
-
-## 🔥 Research Interests
-
-<table>
-<tr>
-<td width="50%">
-
-### 📡 ISAC & Future Wireless Networks
-
-- Integrated sensing and communications
-- AI-native 6G networks
-- Satellite-terrestrial integrated networks
-- Radio signal intelligence
-- Resource allocation and network optimization
-
-</td>
-<td width="50%">
-
-### 🤖 LLMs, Agents & Efficient AI
-
-- Large language models
-- Tool-using agents
-- Mixture-of-Experts architecture
-- LoRA / QLoRA / PEFT fine-tuning
-- Domain-specific LLM adaptation
-
-</td>
-</tr>
-</table>
-
----
 ## 🚀 What I Am Building
 
 <table>
