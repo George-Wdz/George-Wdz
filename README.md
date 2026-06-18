@@ -11,21 +11,6 @@
 <img src="https://img.shields.io/github/stars/George-Wdz?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=yellow" />
 
 </div>
-
----
-
-## 👋 Hi, I'm George
-
-I focus on **AI-powered wireless intelligence**, especially at the intersection of:
-
-- **Integrated Sensing and Communications, ISAC**
-- **Large Language Models, LLMs, Agents, and AI system**
-- **Mixture-of-Experts, MoE, LoRA, and efficient fine-tuning**
-- **Scientific AI, signal processing, and intelligent decision-making**
-
-I am interested in building intelligent systems that can **communicate, sense, reason, and adapt**.
-
-> Future networks should not only transmit information — they should sense the environment.
 ---
 ## 🚀 What I Am Building
 
