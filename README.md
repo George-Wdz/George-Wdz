@@ -41,12 +41,3 @@ AI-assisted resource allocation, atmospheric-aware link adaptation, and sensing-
 </td>
 </tr>
 </table>
-
----
-
-## 🧩 Research Vision
-
-```text
-01. Naive AI for physical layer communication.
-02. Meteorological sensing over satellite-ground communication links
-03. AI for automate complex scientific workflows.
