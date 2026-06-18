@@ -26,45 +26,6 @@ I focus on **AI-powered wireless intelligence**, especially at the intersection 
 I am interested in building intelligent systems that can **communicate, sense, reason, and adapt**.
 
 > Future networks should not only transmit information — they should sense the environment.
-
----
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### Programming
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,matlab,cpp,bash,linux,git,github,vscode,latex" />
-
-<br/><br/>
-
-### AI / LLM / Agent
-
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-<img src="https://img.shields.io/badge/PEFT-00A67E?style=for-the-badge" />
-<img src="https://img.shields.io/badge/LoRA-7B61FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/MoE-FF4B4B?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Agents-111827?style=for-the-badge" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" />
-<img src="https://img.shields.io/badge/LlamaIndex-6C63FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/RAG-0EA5E9?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Fine--Tuning-F97316?style=for-the-badge" />
-
-<br/><br/>
-
-### Scientific Computing
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
-
-</div>
-
 ---
 ## 🚀 What I Am Building
 
